@@ -1,0 +1,8 @@
+﻿venv
+vids
+bin/ffprobe.exe
+bin/ffmpeg.exe
+bin/ffplay.exe
+_mp4
+_src
+_posted
